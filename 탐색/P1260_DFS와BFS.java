@@ -1,5 +1,5 @@
 import java.util.*;
-public class P1206_DFS와BFS {
+public class P1260_DFS와BFS {
   static boolean visited[];
   static ArrayList<Integer>[] A;
   public static void main(String[] args) {
@@ -57,3 +57,4 @@ public class P1206_DFS와BFS {
     }
   }
 }
+
