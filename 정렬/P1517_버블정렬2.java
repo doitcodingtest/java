@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-public class P1517_버블소트2 {
+public class P1517_버블정렬2 {
   public static int[] A, tmp;
   public static long result;
   public static void main(String[] args) throws IOException {
@@ -58,3 +58,4 @@ public class P1517_버블소트2 {
 
   }
 }
+
